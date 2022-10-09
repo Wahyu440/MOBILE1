@@ -13,6 +13,8 @@ class MainActivity : AppCompatActivity() {
     lateinit var btnInputNama : Button
     lateinit var edInputNama : EditText
     lateinit var btnHelp : Button
+    lateinit var btnSampleRV : Button
+    lateinit var btnSampleCV : Button
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -25,6 +27,8 @@ class MainActivity : AppCompatActivity() {
         btnInputNama = findViewById(R.id.btn_ambil_nama)
         btnHelp = findViewById(R.id.btn_help)
         edInputNama = findViewById(R.id.ed_input_nama)
+        btnSampleRV = findViewById(R.id.btnSampleRV)
+        btnSampleCV = findViewById(R.id.btnSampleCV)
 
         btnInputNama.setOnClickListener ( View.OnClickListener { view ->
             var strTmp = edInputNama.text.toString()
@@ -37,6 +41,24 @@ class MainActivity : AppCompatActivity() {
             bundle.putString("tesText",strTmp)
 
             var intent = Intent(this@MainActivity, HelpActivity::class.java)
+            intent.putExtras(bundle)
+            startActivity(intent)
+            finish()
+        } )
+
+        btnSampleRV.setOnClickListener ( View.OnClickListener { view ->
+            var bundle = Bundle()
+
+            var intent = Intent(this@MainActivity, Samplerecyclerview::class.java)
+            intent.putExtras(bundle)
+            startActivity(intent)
+            finish()
+        } )
+
+        btnSampleCV.setOnClickListener ( View.OnClickListener { view ->
+            var bundle = Bundle()
+
+            var intent = Intent(this@MainActivity, SampleCardView::class.java)
             intent.putExtras(bundle)
             startActivity(intent)
             finish()
