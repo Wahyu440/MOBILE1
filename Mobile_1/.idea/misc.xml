@@ -7,6 +7,7 @@
         <entry key="..\:/Users/vivan_xt55h/AndroidStudioProjects/Mobile_1/app/src/main/res/layout/fragment_first.xml" value="0.3080040526849038" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_dutatani.xml" value="0.5" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_edit_data.xml" value="0.5398550724637681" />
+        <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_get_apiactivity.xml" value="0.5067934782608695" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_help.xml" value="0.1" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_linear.xml" value="0.30775075987841943" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_main.xml" value="0.33" />
@@ -20,6 +21,7 @@
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/fragment_home.xml" value="0.30775075987841943" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/fragment_notifications.xml" value="0.30775075987841943" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/rv_item_dutatani.xml" value="0.5398550724637681" />
+        <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/rv_item_user.xml" value="0.5067934782608695" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/test_linear.xml" value="0.563858695652174" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/toolbar_title_layout.xml" value="0.26393110435663625" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.362962962962963" />
