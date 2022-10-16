@@ -1,12 +1,16 @@
 package com.example.mobile_1.network
 
+import com.example.mobile_1.model.ResponseAddMahasiswa
+import com.example.mobile_1.model.ResponseAddMahasiswaItem
 import com.example.mobile_1.model.ResponseUsersItem
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Call
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
+import retrofit2.http.Body
 import retrofit2.http.GET
+import retrofit2.http.POST
 
 class NetworkConfig {
     fun getInterceptor() : OkHttpClient {
@@ -19,7 +23,7 @@ class NetworkConfig {
     }
     fun getRetrofit() : Retrofit {
         return Retrofit.Builder()
-            .baseUrl("https://jsonplaceholder.typicode.com/")
+            .baseUrl("https://kpsi.fti.ukdw.ac.id")
             .client(getInterceptor())
             .addConverterFactory(GsonConverterFactory.create())
             .build()
@@ -30,5 +34,7 @@ class NetworkConfig {
 interface Users {
     @GET("users")
     fun getUsers(): Call<List<ResponseUsersItem>>
+    @POST("api/progmob/mhs/create")
+    fun addMahasiswa(@Body req : ResponseAddMahasiswaItem): Call<ResponseAddMahasiswa>
 
 }
