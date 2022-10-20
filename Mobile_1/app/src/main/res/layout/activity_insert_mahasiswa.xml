@@ -153,4 +153,15 @@
         app:layout_constraintEnd_toEndOf="@+id/inputNimProg"
         app:layout_constraintTop_toBottomOf="@+id/inputNimProg" />
 
+    <Button
+        android:id="@+id/btnGetMahasiswa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="Get Data Mahasiswa"
+        app:layout_constraintEnd_toStartOf="@+id/btnInsert"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/txtNimProg"
+        app:layout_constraintTop_toBottomOf="@+id/inputNimProg" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

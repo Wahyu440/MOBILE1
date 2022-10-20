@@ -8,25 +8,29 @@
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_dutatani.xml" value="0.5" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_edit_data.xml" value="0.5398550724637681" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_get_apiactivity.xml" value="0.5067934782608695" />
+        <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_get_mahasiswa.xml" value="0.30749746707193515" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_help.xml" value="0.1" />
-        <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_insert_mahasiswa.xml" value="0.5" />
+        <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_insert_mahasiswa.xml" value="0.33" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_linear.xml" value="0.30775075987841943" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_mahasiswa_main.xml" value="0.2998986828774063" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_sample_card_view.xml" value="0.2998986828774063" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_sample_list.xml" value="0.5398550724637681" />
-        <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_sample_list_view.xml" value="0.5398550724637681" />
+        <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_sample_list_view.xml" value="0.45918367346938777" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_sample_recycler_view.xml" value="0.5398550724637681" />
+        <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/activity_update_mahasiswa.xml" value="0.33" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/cv_item_dutatani.xml" value="0.2998986828774063" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/fragment_dashboard.xml" value="0.30775075987841943" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/fragment_first.xml" value="0.1" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/fragment_home.xml" value="0.30775075987841943" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/fragment_notifications.xml" value="0.30775075987841943" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/rv_item_dutatani.xml" value="0.5398550724637681" />
+        <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/rv_item_mahasiswa.xml" value="0.42304717710750195" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/rv_item_user.xml" value="0.5067934782608695" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/test_linear.xml" value="0.563858695652174" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/layout/toolbar_title_layout.xml" value="0.26393110435663625" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.362962962962963" />
+        <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/menu/menu_mahasiswa.xml" value="0.25" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/menu/menu_main.xml" value="0.1" />
         <entry key="..\:/xampp/htdocs/MOBILE1/Mobile_1/app/src/main/res/menu/menu_sample_list_view.xml" value="0.6177083333333333" />
       </map>
